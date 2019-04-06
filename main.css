@@ -14,7 +14,7 @@ nav ul {
     justify-content: flex-end;
     position: fixed;
     width: 100%;
-    background-color: #CCD3DB;
+    background-color: lightcyan;
 }
 
 nav ul li {
@@ -33,10 +33,12 @@ nav ul li a:hover {
 }
 
 .intro {
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    height: 50%;
     min-height: 100vh;
-    padding-top: 0vh;
+    /* padding-top: 0vh; */
     background-color: #CCD3DB;
 }
 
@@ -47,10 +49,6 @@ nav ul li a:hover {
     width: 400px;
     text-align: center;
     margin: 40px;
-}
-
-textarea {
-  font-size: 1.25rem;
 }
 
 .work {
@@ -121,7 +119,7 @@ figure {
     color: green;
   }
  
-  @media only screen and (max-width: 500px) {
+    @media only screen and (max-width: 500px) {
     nav ul {
       text-align: center;
     }
@@ -133,9 +131,9 @@ figure {
     }
   }  
   @media only screen and (max-width: 367px) {
-    /*    #contact{
+    #contact{
       min-height:1100px;
-    } */  
+    }
     .contact-details {
       border: 2px solid #90C695;
       border-radius: 0;
@@ -143,7 +141,7 @@ figure {
       height: 20px;
       padding: 10px;
       line-height: normal;
-    }  
+    }
 
 footer {
     background-color: #026575;
@@ -154,61 +152,6 @@ footer p {
     text-align: center;
 }
 
-.star {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  background-color: white;
-}
-
-p {
-  color: #FFFF82;
-}
-
-Set the font, lean the board, position it
-#board {
-  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
-  transform: perspective(300px) rotateX(25deg);
-  transform-origin: 50% 100%;
-  text-align: justify;
-  position: absolute;
-  margin-left: -9em;
-  font-weight: bold;
-  overflow: hidden;
-  font-size: 350%;
-  height: 50em;
-  width: 18em;
-  bottom: 0;
-  left: 50%;
-}
-
-#board:after {
-  position: absolute;
-  content: ' ';
-  bottom: 60%;
-  left: 0;
-  right: 0;
-  top: 0;
-}
-
-/* Set the scrolling animation and position it */
-#content {
-  animation: scroll 100s linear 16s;
-  position: absolute;
-  top: 100%;
-}
-
 #title, #subtitle {
   text-align: center;
-}
-
-@keyframes scroll {
-    0% {
-        top: 100%;
-    }
-    100% {
-        top: -170%;
-    }
-}
-
-}
+}}
