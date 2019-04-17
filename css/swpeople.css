@@ -1,0 +1,136 @@
+::-webkit-scrollbar{
+  display: none;
+}
+
+html, body {
+  height:100%;
+  width:100%;
+  margin:0;
+  padding:0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 100%;
+    font-family: 'News Cycle', sans-serif;
+    color: #4bd5ee;
+}
+
+h1{
+  margin: 0;
+  font-size: 24px;
+  align-self: center;
+  justify-content: center;
+}
+
+h2 {
+  margin: 0;
+  font-size: 18px;
+  align-self: center;
+  text-transform: capitalize;
+}
+
+img {
+  max-height: 80%;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 10px 0px 0px 0px;
+}
+
+button {
+  position: fixed;
+  top: 10px;
+  right: 50px;
+  font-size: 20px;
+  color: #9effff;
+  text-shadow: 2px 0px 3px lightblue;
+  z-index: auto;
+  padding:1%;
+  max-width:200px;
+  background: rgba(10, 20, 170, 0.3);
+  border:solid 2px #9effff; 
+  border-radius:10px;
+  transform:rotateX(30deg);
+  box-shadow: -2px 0px 5px lightblue;
+}
+
+button:hover {
+  border:solid 2px #4bd5ee;
+  color: #4bd5ee;
+}
+
+.title {
+    color: #4bd5ee;
+    text-shadow: 0px 0px 3px lightblue;
+    font-size: 300%;
+    font-family: 'News Cycle', sans-serif;
+    font-weight: 400;
+    line-height: 1.35;
+  }
+
+.flip-card {
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+    width:200px;
+    height: 300px;
+    margin: 20px;
+    perspective: 1000px;
+  }
+  
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    
+  }
+  
+  .flip-card-front {
+    justify-content: center;
+    color: white;
+    border: solid 2px gold;
+    box-shadow: 0px 0px 10px yellow;
+    border-radius: 5px;
+    background-color: transparent;
+  }
+  
+  .flip-card-back {
+    background-color: transparent;
+    color: gold;
+    border-radius: 5p;
+    transform: rotateY(180deg);
+    text-align: left;
+  }
+
+  body {
+    max-width: 100%;
+    margin: 0;
+    background-color: black;
+  }
+  
+  .star {
+    max-width: 1000px;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    background-color: white;
+
+  }
