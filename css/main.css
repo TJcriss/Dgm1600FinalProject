@@ -35,10 +35,10 @@ nav ul li a:hover {
 .intro {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     height: 50%;
     min-height: 100vh;
-    /* padding-top: 0vh; */
+    padding-top: 0vh;
     background-color: #CCD3DB;
 }
 
