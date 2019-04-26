@@ -3,6 +3,14 @@
     padding: 0;
 }
 
+h1.title {
+  color: white;
+}
+
+title {
+  color: white;
+}
+
 h2 {
     text-align: center;
     padding: 20px;
@@ -38,17 +46,21 @@ nav ul li a:hover {
     justify-content: center;
     height: 50%;
     min-height: 100vh;
-    padding-top: 0vh;
-    background-color: #CCD3DB;
+    padding-top: 50vh;
+    background-color: #057D8E;
+    /* color: white; */
 }
 
 .intro div {
-    border: 1px solid yellow; 
-    display: flex;
-    justify-content: center;
+    /* border: 1px solid yellow;  */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* flex-wrap: wrap; */
     width: 400px;
-    text-align: center;
-    margin: 40px;
+    /* text-align: left; */
+    /* margin: 50%; */
+    height: 50%;
+    color: white;
 }
 
 .work {
@@ -148,7 +160,7 @@ footer {
     text-align: center;
 }
 footer p {
-    color: #fff;
+    color: #026575;
     text-align: center;
 }
 
