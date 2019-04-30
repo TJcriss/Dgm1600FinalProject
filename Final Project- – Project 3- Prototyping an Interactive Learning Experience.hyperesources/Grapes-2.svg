@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="114px" viewBox="0 0 89 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M34.9333154,54.013539 C42.320232,57.2073601 45.8565804,66.9909652 42.8319707,75.8658328 C39.807361,84.7407003 31.3671514,89.3460984 23.9802348,86.1522773 C16.5933183,82.9584563 13.0569699,73.1748511 16.0815796,64.2999836 C19.1061893,55.4251161 27.5463989,50.819718 34.9333154,54.013539 Z" id="path-1"></path>
+        <filter x="-13.8%" y="-11.7%" width="127.7%" height="123.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M27.6690294,94.3848409 C22.2727455,87.866923 22.9020685,77.3273856 29.0746615,70.8441251 C35.2472545,64.3608646 44.6256821,64.3889599 50.021966,70.9068777 C55.4182498,77.4247956 54.7889269,87.964333 48.6163339,94.4475935 C42.4437409,100.930854 33.0653132,100.902759 27.6690294,94.3848409 Z" id="path-3"></path>
+        <filter x="-13.5%" y="-12.0%" width="126.9%" height="124.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M14.8614963,53.4136733 C6.95385773,53.7247021 0.304669924,46.2751808 0.0101197107,36.7747019 C-0.284430503,27.2742229 5.88719705,19.3204243 13.7948357,19.0093956 C21.7024743,18.6983668 28.3516621,26.147888 28.6462123,35.648367 C28.9407625,45.148846 22.769135,53.1026445 14.8614963,53.4136733 Z" id="path-5"></path>
+        <filter x="-14.0%" y="-11.6%" width="127.9%" height="123.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M17.2662252,38.037492 C25.1594095,37.4158134 32.035369,44.5994254 32.6241106,54.0825386 C33.2128521,63.5656517 27.2914313,71.7572039 19.398247,72.3788825 C11.5050627,73.0005612 4.62910318,65.8169491 4.04036162,56.333836 C3.45162005,46.8507229 9.37304087,38.6591707 17.2662252,38.037492 Z" id="path-7"></path>
+        <filter x="-14.0%" y="-11.6%" width="127.9%" height="123.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-9" cx="28.5133728" cy="66.1883486" rx="16.0634873" ry="15.3698498"></ellipse>
+        <filter x="-13.1%" y="-12.4%" width="126.2%" height="124.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M20.1300986,62.4136733 C12.22246,62.7247021 5.5732722,55.2751808 5.27872199,45.7747019 C4.98417177,36.2742229 11.1557993,28.3204243 19.0634379,28.0093956 C26.9710766,27.6983668 33.6202644,35.147888 33.9148146,44.648367 C34.2093648,54.148846 28.0377372,62.1026445 20.1300986,62.4136733 Z" id="path-11"></path>
+        <filter x="-14.0%" y="-11.6%" width="127.9%" height="123.2%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M18.1195163,58.7518706 C10.3763369,56.8602516 5.72754751,47.8497476 7.73615463,38.6263466 C9.74476174,29.4029456 17.6501467,23.4593619 25.3933261,25.3509809 C33.1365054,27.2425998 37.7852948,36.2531038 35.7766877,45.4765048 C33.7680806,54.6999058 25.8626956,60.6434895 18.1195163,58.7518706 Z" id="path-13"></path>
+        <filter x="-13.8%" y="-11.7%" width="127.6%" height="123.5%" filterUnits="objectBoundingBox" id="filter-14">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M33.978356,14.5530997 C37.570537,22.4938639 34.3863654,32.4297369 26.8663096,36.7454931 C19.3462539,41.0612494 10.338006,38.1225998 6.74582495,30.1818355 C3.15364388,22.2410713 6.33781548,12.3051983 13.8578713,7.98944206 C21.377927,3.67368583 30.3861749,6.61233544 33.978356,14.5530997 Z" id="path-15"></path>
+        <filter x="-13.3%" y="-12.2%" width="126.5%" height="124.4%" filterUnits="objectBoundingBox" id="filter-16">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M49.8092458,19.2394903 C50.2233519,28.1394045 43.7264918,35.75753 35.2981025,36.2550497 C26.8697133,36.7525695 19.7014545,29.9410829 19.2873484,21.0411686 C18.8732423,12.1412543 25.3701024,4.5231288 33.7984917,4.02560907 C42.2268809,3.52808934 49.3951397,10.339576 49.8092458,19.2394903 Z" id="path-17"></path>
+        <filter x="-13.1%" y="-12.4%" width="126.2%" height="124.8%" filterUnits="objectBoundingBox" id="filter-18">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M34.1300986,78.4136733 C26.22246,78.7247021 19.5732722,71.2751808 19.278722,61.7747019 C18.9841718,52.2742229 25.1557993,44.3204243 33.0634379,44.0093956 C40.9710766,43.6983668 47.6202644,51.147888 47.9148146,60.648367 C48.2093648,70.148846 42.0377372,78.1026445 34.1300986,78.4136733 Z" id="path-19"></path>
+        <filter x="-14.0%" y="-11.6%" width="127.9%" height="123.2%" filterUnits="objectBoundingBox" id="filter-20">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M57.67883,112.38127 C50.1974533,115.282775 41.9050827,110.348408 39.1573018,101.360053 C36.409521,92.3716986 40.2468585,82.7330627 47.7282352,79.8315576 C55.2096118,76.9300526 63.5019824,81.8644192 66.2497633,90.852774 C68.9975442,99.8411288 65.1602066,109.479765 57.67883,112.38127 Z" id="path-21"></path>
+        <filter x="-13.9%" y="-11.7%" width="127.7%" height="123.4%" filterUnits="objectBoundingBox" id="filter-22">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M59.8614963,76.4136733 C51.9538577,76.7247021 45.3046699,69.2751808 45.0101197,59.7747019 C44.7155695,50.2742229 50.887197,42.3204243 58.7948357,42.0093956 C66.7024743,41.6983668 73.3516621,49.147888 73.6462123,58.648367 C73.9407625,68.148846 67.769135,76.1026445 59.8614963,76.4136733 Z" id="path-23"></path>
+        <filter x="-14.0%" y="-11.6%" width="127.9%" height="123.2%" filterUnits="objectBoundingBox" id="filter-24">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M49.1300986,34.4136733 C41.22246,34.7247021 34.5732722,27.2751808 34.278722,17.7747019 C33.9841718,8.2742229 40.1557993,0.320424347 48.0634379,0.00939556331 C55.9710766,-0.30163322 62.6202644,7.14788804 62.9148146,16.648367 C63.2093648,26.148846 57.0377372,34.1026445 49.1300986,34.4136733 Z" id="path-25"></path>
+        <filter x="-14.0%" y="-11.6%" width="127.9%" height="123.2%" filterUnits="objectBoundingBox" id="filter-26">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M38.5336532,88.835489 C31.8792893,83.8012482 30.2709104,73.4211159 34.9412384,65.6508148 C39.6115664,57.8805136 48.7920431,55.6624985 55.446407,60.6967393 C62.100771,65.7309802 63.7091499,76.1111124 59.0388219,83.8814136 C54.3684939,91.6517147 45.1880172,93.8697299 38.5336532,88.835489 Z" id="path-27"></path>
+        <filter x="-13.6%" y="-11.9%" width="127.2%" height="123.9%" filterUnits="objectBoundingBox" id="filter-28">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M54.5805875,88.5032255 C49.3512532,81.9748191 50.4315008,71.6630067 56.9933882,65.4711478 C63.5552755,59.2792889 73.1139494,59.5521146 78.3432837,66.0805209 C83.5726181,72.6089273 82.4923705,82.9207398 75.9304831,89.1125987 C69.3685957,95.3044575 59.8099219,95.0316319 54.5805875,88.5032255 Z" id="path-29"></path>
+        <filter x="-13.2%" y="-12.3%" width="126.3%" height="124.6%" filterUnits="objectBoundingBox" id="filter-30">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M24.2065696,47.296249 C20.1313521,39.6570643 22.6924195,29.4952155 29.9268737,24.5991246 C37.161328,19.7030336 46.3296284,21.9267505 50.4048458,29.5659352 C54.4800633,37.20512 51.9189959,47.3669687 44.6845417,52.2630597 C37.4500875,57.1591507 28.281787,54.9354338 24.2065696,47.296249 Z" id="path-31"></path>
+        <filter x="-13.3%" y="-12.2%" width="126.6%" height="124.3%" filterUnits="objectBoundingBox" id="filter-32">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M59.2364951,33.7472638 C51.1786817,34.3086815 44.363322,27.2161932 44.0139632,17.9057479 C43.6646045,8.59530258 49.9135417,0.592576417 57.9713552,0.0311587326 C66.0291687,-0.530258952 72.8445283,6.5622293 73.1938871,15.8726746 C73.5432458,25.1831199 67.2943086,33.1858461 59.2364951,33.7472638 Z" id="path-33"></path>
+        <filter x="-13.7%" y="-11.8%" width="127.4%" height="123.7%" filterUnits="objectBoundingBox" id="filter-34">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M48.3453888,30.3159895 C53.5364287,23.5899211 62.9082728,23.1931887 69.2779884,29.4298629 C75.647704,35.6665371 76.6032093,46.1749163 71.4121694,52.9009847 C66.2211294,59.6270532 56.8492854,60.0237855 50.4795698,53.7871113 C44.1098542,47.5504371 43.1543488,37.0420579 48.3453888,30.3159895 Z" id="path-35"></path>
+        <filter x="-13.4%" y="-12.0%" width="126.9%" height="124.1%" filterUnits="objectBoundingBox" id="filter-36">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M84.1677268,35.9423884 C80.9811052,43.8687847 72.5912808,46.8615697 65.4285295,42.6269607 C58.2657782,38.3923517 55.0424883,28.5339089 58.2291099,20.6075126 C61.4157316,12.6811162 69.805556,9.6883312 76.9683072,13.9229402 C84.1310585,18.1575492 87.3543484,28.015992 84.1677268,35.9423884 Z" id="path-37"></path>
+        <filter x="-14.1%" y="-12.3%" width="128.2%" height="124.6%" filterUnits="objectBoundingBox" id="filter-38">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M57.3172291,50.0805344 C59.0225299,41.4679862 67.1276135,36.2904764 75.4204399,38.5162426 C83.7132663,40.7420088 89.0535108,49.5281986 87.34821,58.1407468 C85.6429091,66.753295 77.5378255,71.9308048 69.2449991,69.7050386 C60.9521727,67.4792724 55.6119282,58.6930826 57.3172291,50.0805344 Z" id="path-39"></path>
+        <filter x="-13.0%" y="-12.4%" width="126.1%" height="124.8%" filterUnits="objectBoundingBox" id="filter-40">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M64.2800977,43.262365 C60.953294,51.0570878 53.0666805,53.6398444 46.6648535,49.0311133 C40.2630265,44.4223822 37.7702276,34.3673961 41.0970313,26.5726733 C44.4238351,18.7779504 52.3104485,16.1951938 58.7122756,20.8039249 C65.1141026,25.4126561 67.6069015,35.4676422 64.2800977,43.262365 Z" id="path-41"></path>
+        <filter x="-15.3%" y="-12.2%" width="130.6%" height="124.4%" filterUnits="objectBoundingBox" id="filter-42">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M38.9890658,47.8633025 C44.0000918,41.6691508 52.3361482,41.9290455 57.6081689,48.4437937 C62.8801896,54.9585418 63.0917677,65.2611409 58.0807417,71.4552926 C53.0697158,77.6494444 44.7336594,77.3895497 39.4616387,70.8748015 C34.1896179,64.3600533 33.9780399,54.0574543 38.9890658,47.8633025 Z" id="path-43"></path>
+        <filter x="-15.2%" y="-12.3%" width="130.4%" height="124.6%" filterUnits="objectBoundingBox" id="filter-44">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8-Dio-Grapes" transform="translate(0.000000, -19.000000)">
+            <g id="Grapes">
+                <g id="Group" transform="translate(0.731398, 19.000000)">
+                    <g id="Oval">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Oval-Copy">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Oval-Copy-4">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="Oval-Copy-8">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Oval-Copy-21">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    </g>
+                    <g id="Oval-Copy-3">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                    </g>
+                    <g id="Oval-Copy-12">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-13"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                    </g>
+                    <g id="Oval-Copy-20">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-15"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                    </g>
+                    <g id="Oval-Copy-23">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-17"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                    </g>
+                    <g id="Oval-Copy-5">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-19"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                    </g>
+                    <g id="Oval-Copy-9">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-21"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                    </g>
+                    <g id="Oval-Copy-10">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-23"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                    </g>
+                    <g id="Oval-Copy-11">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-25"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                    </g>
+                    <g id="Oval-Copy-7">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-27"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                    </g>
+                    <g id="Oval-Copy-15">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-29"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                    </g>
+                    <g id="Oval-Copy-13">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-31"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                    </g>
+                    <g id="Oval-Copy-19">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-33"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                    </g>
+                    <g id="Oval-Copy-14">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-35"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                    </g>
+                    <g id="Oval-Copy-16" transform="translate(71.198418, 28.274950) rotate(8.000000) translate(-71.198418, -28.274950) ">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-37"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                    </g>
+                    <g id="Oval-Copy-17">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-39"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                    </g>
+                    <g id="Oval-Copy-18" transform="translate(52.688565, 34.917519) rotate(-13.000000) translate(-52.688565, -34.917519) ">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-41"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-42)" xlink:href="#path-41"></use>
+                    </g>
+                    <g id="Oval-Copy-6" transform="translate(48.534904, 59.659298) rotate(-12.000000) translate(-48.534904, -59.659298) ">
+                        <use fill="#592486" fill-rule="evenodd" xlink:href="#path-43"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-44)" xlink:href="#path-43"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

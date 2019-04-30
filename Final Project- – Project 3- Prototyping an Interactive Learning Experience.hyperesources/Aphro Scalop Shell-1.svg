@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="150px" viewBox="0 0 220 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>9 Aphro Scalop Shell</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.3%" y="-32.6%" width="112.6%" height="165.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-15.9%" y="-23.2%" width="131.7%" height="146.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-10.7%" y="-7.7%" width="121.4%" height="115.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-13.0%" y="-6.8%" width="126.1%" height="113.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-20.0%" y="-6.2%" width="140.0%" height="112.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-20.7%" y="-5.4%" width="141.4%" height="110.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-16.2%" y="-5.6%" width="132.4%" height="111.2%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-10.5%" y="-6.1%" width="121.1%" height="112.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-9.7%" y="-7.4%" width="119.4%" height="114.7%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="9-Aphro-Scalop-Shell" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(5.000000, 3.000000)">
+            <g id="Shell-bottom" transform="translate(48.000000, 118.000000)">
+                <path d="M53.3135158,20 C87.7711719,19.774849 105,17.3304046 105,12.6666667 C105,5.67105984 81.4949494,0 52.5,0 C23.5050506,0 -2.84217094e-14,5.67105984 -2.84217094e-14,12.6666667 C-2.84217094e-14,17.3304046 17.7711719,19.774849 53.3135158,20 Z" id="Oval" stroke="#979797" fill="#979797"></path>
+                <path d="M53.2360381,20 C84.4120127,19.7928611 100,17.5439722 100,13.2533333 C100,6.81737505 78.7335256,1.6 52.5,1.6 C26.2664744,1.6 5,6.81737505 5,13.2533333 C5,17.5439722 21.0786794,19.7928611 53.2360381,20 Z" id="Oval" fill="#D8D8D8" filter="url(#filter-1)"></path>
+            </g>
+            <g id="Shell-Top">
+                <path d="M99.4333962,144 C112.441397,144 210,92.8131212 210,53.0486192 C210,13.2841172 157.423295,0 99.4333962,0 C41.4434975,0 0,13.2841172 0,53.0486192 C0,92.8131212 86.4253953,144 99.4333962,144 Z" id="Oval" fill="#979797"></path>
+                <path d="M100.490057,131.727273 C112.197257,131.727273 200,85.7754156 200,50.0777377 C200,14.3800598 152.680965,2.45454545 100.490057,2.45454545 C48.2991477,2.45454545 11,14.3800598 11,50.0777377 C11,85.7754156 88.7828558,131.727273 100.490057,131.727273 Z" id="Oval" fill="#D8D8D8" filter="url(#filter-2)"></path>
+            </g>
+            <g id="Triangle-7" transform="translate(128.000000, 19.000000)">
+                <path d="M-5.68434189e-14,109.185185 L59.8801249,0 C67.7224354,1.20641698 75.485929,15.0998376 78,21.3372442 L-5.68434189e-14,109.185185 Z" id="7-Triangle" fill="#979797"></path>
+                <path d="M19,80.6666667 L61.99972,2.44444444 C67.6262617,3.28580819 73.1962554,12.9751781 75,17.3251896 L19,80.6666667 Z" id="7-Triangle" fill="#D8D8D8" filter="url(#filter-3)"></path>
+            </g>
+            <g id="Triangle-6" transform="translate(118.000000, 6.000000)">
+                <path d="M-2.84217094e-14,122.18 L38.014058,0 C47.7791798,0.623845268 58.4165589,5.33053203 64,8.73112061 L-2.84217094e-14,122.18 Z" id="6-Triangle" stroke="#979797" fill="#979797" stroke-linejoin="round"></path>
+                <path d="M15,90.2 L42.3226042,1.64 C49.3412855,2.09218315 56.9869017,5.50374134 61,7.96859749 L15,90.2 Z" id="6-Triangle" fill="#D8D8D8" filter="url(#filter-4)"></path>
+            </g>
+            <g id="Triangle-5" transform="translate(110.000000, 1.000000)">
+                <path d="M-2.84217094e-14,133 L9.41005198,0.200473358 C18.3929716,-0.593422066 33.9638645,1.04774625 41,3.7608785 L-2.84217094e-14,133 Z" id="5-Triangle" stroke="#979797" fill="#979797" stroke-linejoin="round"></path>
+                <path d="M8,96.8765432 L14.8854039,0.965773968 C21.4582719,0.392405051 32.8516082,1.57769328 38,3.53717769 L8,96.8765432 Z" id="5-Triangle" fill="#D8D8D8" filter="url(#filter-5)"></path>
+            </g>
+            <g id="Triangle-4" transform="translate(81.000000, 0.000000)">
+                <path d="M19.5433233,138 L-5.68434189e-14,0.905995294 C10.1436444,-0.222197541 26.6653526,-0.3792497 36,0.905995294 L19.5433233,138 Z" id="4-Triangle" fill="#979797"></path>
+                <path d="M18.7432326,111.869822 L3,1.54565302 C11.1712691,0.637758192 24.4804229,0.511373022 32,1.54565302 L18.7432326,111.869822 Z" id="4-Triangle" fill="#D8D8D8" filter="url(#filter-6)"></path>
+            </g>
+            <g id="Triangle-3" transform="translate(46.000000, 3.000000)">
+                <path d="M47,134 L0,4.67017536 C6.59813982,1.00761094 22.0850086,-0.795157355 31.2600569,0.334469574 L47,134 Z" id="3-Triangle" fill="#979797"></path>
+                <path d="M40,107.853659 L3,4.54751812 C8.19428028,1.62193313 20.3860706,0.181916991 27.608981,1.08424094 L40,107.853659 Z" id="3-Triangle" fill="#D8D8D8" filter="url(#filter-7)"></path>
+            </g>
+            <g id="Triangle-2" transform="translate(15.000000, 9.000000)">
+                <path d="M72,123.184211 L0,11.3339201 C4.20965038,6.53620841 14.5123401,1.40341781 23.5033207,0 L72,123.184211 Z" id="2-Triangle" fill="#979797"></path>
+                <path d="M59,100.342105 L2,10.7137269 C5.33263988,6.8692029 13.4889359,2.75617202 20.6067955,1.63157895 L59,100.342105 Z" id="2-Triangle" fill="#D8D8D8" filter="url(#filter-8)"></path>
+            </g>
+            <g id="Triang-1" transform="translate(1.000000, 24.000000)">
+                <path d="M83,109.179104 L0.0317220743,27.3419436 C-0.395715417,17.8293866 3.51646261,4.46300615 10.5568528,0 L83,109.179104 Z" id="1-Triangle" fill="#979797"></path>
+                <path d="M68,90.2985075 L2.02522478,25.0749056 C1.68533473,17.4934691 4.79622328,6.84056444 10.3946059,3.28358209 L68,90.2985075 Z" id="1-Triangle" stroke="#979797" stroke-width="0.8" fill="#D8D8D8" stroke-linejoin="round" filter="url(#filter-9)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="477px" height="477px" viewBox="0 0 477 477" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Sun V2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="45.9609234%" fx="50%" fy="45.9609234%" r="93.1422444%" gradientTransform="translate(0.500000,0.459609),scale(0.996737,1.000000),rotate(90.000000),translate(-0.500000,-0.459609)" id="radialGradient-1">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-7.0%" y="-7.1%" width="114.1%" height="114.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="67.7079874%" y1="21.420711%" x2="17.8189395%" y2="89.3592374%" id="linearGradient-3">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-21.1%" y="-20.4%" width="142.3%" height="140.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.1%" y="-20.4%" width="142.3%" height="140.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.1%" y="-20.4%" width="142.3%" height="140.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.1%" y="-20.4%" width="142.3%" height="140.8%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.1%" y="-20.4%" width="142.3%" height="140.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.1%" y="-20.4%" width="142.3%" height="140.8%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.1%" y="-20.4%" width="142.3%" height="140.8%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-21.1%" y="-20.4%" width="142.3%" height="140.8%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Animation-Content-Development" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5-Apollo" transform="translate(-259.000000, -538.000000)">
+            <g id="5-Apollo-Sun-V2" transform="translate(269.000000, 548.000000)">
+                <g id="Group-3">
+                    <g id="Group-2" transform="translate(48.617021, 0.000000)">
+                        <ellipse id="Oval" fill="url(#radialGradient-1)" filter="url(#filter-2)" cx="178.38707" cy="227.754486" rx="106.58347" ry="106.235726"></ellipse>
+                        <g id="5-Apollo-Sun-Ray" transform="translate(284.603309, 90.153844) rotate(-3.000000) translate(-284.603309, -90.153844) translate(241.595944, 46.168526)" fill="url(#linearGradient-3)">
+                            <path d="M0.237087471,69.2401485 C30.5113186,60.6076421 34.326969,48.9762505 11.6840385,34.3459737 C-10.9588919,19.715697 13.602799,8.26703906 85.3691115,4.97379915e-14 C42.9129672,15.4421264 26.3633038,26.8907843 35.7201213,34.3459737 C42.4556938,39.7126456 61.2969133,53.7050513 54.718757,69.2401485 C50.3333194,79.5968799 40.1222271,85.9279548 24.0854799,88.2333731 C19.0563811,80.1306584 12.7705767,73.4335639 0.237087471,69.2401485 Z" id="Path-5" filter="url(#filter-4)"></path>
+                        </g>
+                        <g id="5-Apollo-Sun-Ray" transform="translate(66.948645, 354.811266) scale(-1, -1) rotate(-3.000000) translate(-66.948645, -354.811266) translate(23.941280, 310.825948)" fill="url(#linearGradient-3)">
+                            <path d="M0.237087471,69.2401485 C30.5113186,60.6076421 34.326969,48.9762505 11.6840385,34.3459737 C-10.9588919,19.715697 13.602799,8.26703906 85.3691115,4.97379915e-14 C42.9129672,15.4421264 26.3633038,26.8907843 35.7201213,34.3459737 C42.4556938,39.7126456 61.2969133,53.7050513 54.718757,69.2401485 C50.3333194,79.5968799 40.1222271,85.9279548 24.0854799,88.2333731 C19.0563811,80.1306584 12.7705767,73.4335639 0.237087471,69.2401485 Z" id="Path-5" filter="url(#filter-5)"></path>
+                        </g>
+                        <g id="5-Apollo-Sun-Ray" transform="translate(44.129296, 128.114234) scale(-1, -1) rotate(-270.000000) translate(-44.129296, -128.114234) translate(1.121931, 84.128916)" fill="url(#linearGradient-3)">
+                            <path d="M0.237087471,69.2401485 C30.5113186,60.6076421 34.326969,48.9762505 11.6840385,34.3459737 C-10.9588919,19.715697 13.602799,8.26703906 85.3691115,4.97379915e-14 C42.9129672,15.4421264 26.3633038,26.8907843 35.7201213,34.3459737 C42.4556938,39.7126456 61.2969133,53.7050513 54.718757,69.2401485 C50.3333194,79.5968799 40.1222271,85.9279548 24.0854799,88.2333731 C19.0563811,80.1306584 12.7705767,73.4335639 0.237087471,69.2401485 Z" id="Path-5" filter="url(#filter-6)"></path>
+                        </g>
+                        <g id="5-Apollo-Sun-Ray" transform="translate(155.287325, 61.877651) scale(-1, -1) rotate(-226.000000) translate(-155.287325, -61.877651) translate(112.279960, 17.892333)" fill="url(#linearGradient-3)">
+                            <path d="M0.237087471,69.2401485 C30.5113186,60.6076421 34.326969,48.9762505 11.6840385,34.3459737 C-10.9588919,19.715697 13.602799,8.26703906 85.3691115,4.97379915e-14 C42.9129672,15.4421264 26.3633038,26.8907843 35.7201213,34.3459737 C42.4556938,39.7126456 61.2969133,53.7050513 54.718757,69.2401485 C50.3333194,79.5968799 40.1222271,85.9279548 24.0854799,88.2333731 C19.0563811,80.1306584 12.7705767,73.4335639 0.237087471,69.2401485 Z" id="Path-5" filter="url(#filter-7)"></path>
+                        </g>
+                        <g id="5-Apollo-Sun-Ray" transform="translate(346.562234, 197.101867) rotate(-316.000000) translate(-346.562234, -197.101867) translate(303.554869, 153.116549)" fill="url(#linearGradient-3)">
+                            <path d="M0.237087471,69.2401485 C30.5113186,60.6076421 34.326969,48.9762505 11.6840385,34.3459737 C-10.9588919,19.715697 13.602799,8.26703906 85.3691115,4.97379915e-14 C42.9129672,15.4421264 26.3633038,26.8907843 35.7201213,34.3459737 C42.4556938,39.7126456 61.2969133,53.7050513 54.718757,69.2401485 C50.3333194,79.5968799 40.1222271,85.9279548 24.0854799,88.2333731 C19.0563811,80.1306584 12.7705767,73.4335639 0.237087471,69.2401485 Z" id="Path-5" filter="url(#filter-8)"></path>
+                        </g>
+                        <g id="5-Apollo-Sun-Ray" transform="translate(312.139433, 324.671289) rotate(-270.000000) translate(-312.139433, -324.671289) translate(269.132068, 280.685971)" fill="url(#linearGradient-3)">
+                            <path d="M0.237087471,69.2401485 C30.5113186,60.6076421 34.326969,48.9762505 11.6840385,34.3459737 C-10.9588919,19.715697 13.602799,8.26703906 85.3691115,4.97379915e-14 C42.9129672,15.4421264 26.3633038,26.8907843 35.7201213,34.3459737 C42.4556938,39.7126456 61.2969133,53.7050513 54.718757,69.2401485 C50.3333194,79.5968799 40.1222271,85.9279548 24.0854799,88.2333731 C19.0563811,80.1306584 12.7705767,73.4335639 0.237087471,69.2401485 Z" id="Path-5" filter="url(#filter-9)"></path>
+                        </g>
+                        <g id="5-Apollo-Sun-Ray" transform="translate(199.990907, 395.380955) rotate(-226.000000) translate(-199.990907, -395.380955) translate(156.983542, 351.395637)" fill="url(#linearGradient-3)">
+                            <path d="M0.237087471,69.2401485 C30.5113186,60.6076421 34.326969,48.9762505 11.6840385,34.3459737 C-10.9588919,19.715697 13.602799,8.26703906 85.3691115,4.97379915e-14 C42.9129672,15.4421264 26.3633038,26.8907843 35.7201213,34.3459737 C42.4556938,39.7126456 61.2969133,53.7050513 54.718757,69.2401485 C50.3333194,79.5968799 40.1222271,85.9279548 24.0854799,88.2333731 C19.0563811,80.1306584 12.7705767,73.4335639 0.237087471,69.2401485 Z" id="Path-5" filter="url(#filter-10)"></path>
+                        </g>
+                    </g>
+                    <g id="5-Apollo-Sun-Ray" transform="translate(61.591694, 244.069240) scale(-1, -1) rotate(-316.000000) translate(-61.591694, -244.069240) translate(18.584329, 200.083922)" fill="url(#linearGradient-3)">
+                        <path d="M0.237087471,69.2401485 C30.5113186,60.6076421 34.326969,48.9762505 11.6840385,34.3459737 C-10.9588919,19.715697 13.602799,8.26703906 85.3691115,4.97379915e-14 C42.9129672,15.4421264 26.3633038,26.8907843 35.7201213,34.3459737 C42.4556938,39.7126456 61.2969133,53.7050513 54.718757,69.2401485 C50.3333194,79.5968799 40.1222271,85.9279548 24.0854799,88.2333731 C19.0563811,80.1306584 12.7705767,73.4335639 0.237087471,69.2401485 Z" id="Path-5" filter="url(#filter-11)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

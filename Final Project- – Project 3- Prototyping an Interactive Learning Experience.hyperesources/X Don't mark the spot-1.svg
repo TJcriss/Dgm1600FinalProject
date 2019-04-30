@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>X Don't mark the spot</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M151.377942,114.285714 L259.943947,25 L259.781771,93.690373 L193.591112,149.002227 L260,203.617527 L259.943947,275 L151.228379,184.402408 L42.8119377,275 L40,205.883993 L108.955394,149.174421 L42.3754804,93.690373 L42.8119377,25 L151.377942,114.285714 Z" id="path-1"></path>
+        <filter x="-1.6%" y="-1.8%" width="103.2%" height="103.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-3" dy="-3" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner2"></feGaussianBlur>
+            <feOffset dx="3" dy="-3" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="X-Don't-mark-the-spot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Combined-Shape" transform="translate(150.000000, 150.000000) rotate(-270.000000) translate(-150.000000, -150.000000) ">
+            <use fill="#8C0011" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <path stroke="#000000" stroke-width="1" d="M151.377942,113.638343 L260.446453,23.9393636 L260.28122,93.9246063 L194.37454,148.999154 L260.500185,203.381513 L260.443109,276.066833 L151.22882,185.053634 L42.3536156,276.034589 L39.4903026,205.655802 L108.171323,149.171878 L41.8739902,93.9233165 L42.3186189,23.9469188 L151.377942,113.638343 Z"></path>
+        </g>
+    </g>
+</svg>

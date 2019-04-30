@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="213px" height="213px" viewBox="0 0 213 213" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Athena's Owl</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Animation-Content-Development" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10-Athena" transform="translate(-325.000000, -586.000000)">
+            <g id="10-Athena's-Owl" transform="translate(320.000000, 591.000000)">
+                <g id="10-AhenaOwl-Feet" transform="translate(71.000000, 179.000000)" fill="#F5A623" fill-rule="evenodd" stroke="#FFC200" stroke-width="1">
+                    <g id="Group-3" transform="translate(50.000000, 0.000000)">
+                        <ellipse id="Oval-Copy-7" transform="translate(21.812170, 13.326800) rotate(-5.000000) translate(-21.812170, -13.326800) " cx="21.8121702" cy="13.3267995" rx="5.31217021" ry="12.8267995"></ellipse>
+                        <ellipse id="Oval-Copy-9" transform="translate(6.812170, 13.326800) rotate(6.000000) translate(-6.812170, -13.326800) " cx="6.81217021" cy="13.3267995" rx="5.31217021" ry="12.8267995"></ellipse>
+                        <ellipse id="Oval-Copy-8" cx="13.8121702" cy="13.3267995" rx="5.31217021" ry="12.8267995"></ellipse>
+                    </g>
+                    <g id="Group-2" transform="translate(0.000000, 2.000000)">
+                        <ellipse id="Oval-Copy-10" transform="translate(21.812170, 13.326800) rotate(-5.000000) translate(-21.812170, -13.326800) " cx="21.8121702" cy="13.3267995" rx="5.31217021" ry="12.8267995"></ellipse>
+                        <ellipse id="Oval-Copy-11" transform="translate(6.812170, 13.326800) rotate(6.000000) translate(-6.812170, -13.326800) " cx="6.81217021" cy="13.3267995" rx="5.31217021" ry="12.8267995"></ellipse>
+                        <ellipse id="Oval-Copy-12" cx="14.8121702" cy="13.3267995" rx="5.31217021" ry="12.8267995"></ellipse>
+                    </g>
+                </g>
+                <path d="" id="Path-8" stroke="#979797" stroke-width="1"></path>
+                <path d="M172.989417,12.303438 L212,0 L197.460929,24.413311 C206.762369,69.5362416 211.090686,97.6977167 210.44588,108.897736 C209.90801,118.240303 178.537476,148.605165 116.334277,199.992323 L106.015027,200 C44.1717905,153.188229 12.8493831,122.820808 12.0478053,108.897736 C11.4544043,98.5906087 16.3853591,70.4297235 26.8406698,24.4150809 L12.0478053,0 L53.199877,12.303438 C58.1272921,13.3801968 77.4762745,21.7335774 111.246824,37.3635798 C145.017403,21.7335804 168.062,13.380197 172.989417,12.303438 Z" id="Path" stroke="#201A75" stroke-width="5" fill="#0076FF" fill-rule="evenodd"></path>
+                <path d="M175.748598,210.026151 C188.451147,210.026151 188.451147,88.2019426 175.748598,88.2019426 C163.046049,88.2019426 152.748598,99.6966379 152.748598,141.117994 C152.748598,182.53935 163.046049,210.026151 175.748598,210.026151 Z" id="Oval" stroke="#201A75" stroke-width="1" fill="#201A75" fill-rule="evenodd" transform="translate(169.012054, 149.114047) rotate(44.000000) translate(-169.012054, -149.114047) "></path>
+                <path d="M60.7485981,210.026151 C73.4511473,210.026151 73.4511473,88.2019426 60.7485981,88.2019426 C48.0460488,88.2019426 37.7485981,99.6966379 37.7485981,141.117994 C37.7485981,182.53935 48.0460488,210.026151 60.7485981,210.026151 Z" id="Oval-Copy-4" stroke="#201A75" stroke-width="1" fill="#201A75" fill-rule="evenodd" transform="translate(54.012054, 149.114047) scale(-1, 1) rotate(44.000000) translate(-54.012054, -149.114047) "></path>
+                <polygon id="Triangle" fill="#F5A623" fill-rule="evenodd" points="111.5 128 84 73 139 73"></polygon>
+                <ellipse id="Oval" fill="#FFC200" fill-rule="evenodd" cx="62" cy="72.6666667" rx="40" ry="46.6666667"></ellipse>
+                <ellipse id="Oval-Copy-2" fill="#000000" fill-rule="evenodd" cx="71" cy="73" rx="20" ry="25"></ellipse>
+                <ellipse id="Oval-Copy" fill="#FFC200" fill-rule="evenodd" cx="160" cy="72.6666667" rx="40" ry="46.6666667"></ellipse>
+                <ellipse id="Oval-Copy-3" fill="#000000" fill-rule="evenodd" cx="169" cy="73" rx="20" ry="25"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

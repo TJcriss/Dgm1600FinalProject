@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="349px" viewBox="0 0 330 349" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>11 Ares Helmet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M283.129585,348.515043 L261.791446,243.187389 L203.509349,224.388794 L193.153239,210.258972 L262.92948,224.388794 L277.336021,269.756013 L292.63256,269.756013 L271.523745,224.388794 L274.69865,224.388794 C271.092065,203.169784 265.410676,184.788138 257.654482,169.243856 L247.365486,153.553214 L252.073657,145.032274 C203.250619,85.8040237 82.9444618,105.472206 91.1326208,210.258972 C102.825201,245.131118 95.8321661,272.214864 70.1535171,291.510211 C120.796135,288.740571 152.499265,292.507319 165.262907,302.810455 L158.017435,262.403085 L190.617746,317.470542 L283.129585,348.515043 Z" id="path-1"></path>
+        <filter x="-3.1%" y="-2.1%" width="106.3%" height="105.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-11.0%" y="-9.5%" width="122.0%" height="120.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="12.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="4" dy="16" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="60.0033957%" cy="65.7604713%" fx="60.0033957%" fy="65.7604713%" r="64.8705556%" gradientTransform="translate(0.600034,0.657605),scale(0.961970,1.000000),rotate(-120.133808),scale(1.000000,0.790371),translate(-0.600034,-0.657605)" id="radialGradient-4">
+            <stop stop-color="#D0021B" offset="0%"></stop>
+            <stop stop-color="#D0021B" offset="100%"></stop>
+        </radialGradient>
+        <path d="M259.409823,141.43527 C278.68172,120.246684 293.61467,103.190788 329.947707,103.190788 C305.181402,71.5961426 288.362262,53.1920935 279.490286,47.9786405 L232.841913,86.8501636 L254.289696,35.973382 C235.145671,28.6388085 213.432612,22.1414444 190.900912,22.0975174 L173.047901,83.217935 L165.485117,21.5742617 C148.479922,22.1630211 114.325372,26.2955568 98.1976633,31.0246493 L112.529214,95.9999642 L88.0486644,40.0675579 C42.0020016,60.5841045 17.7868143,88.2869866 15.4031023,123.176204 L67.217793,155.385104 L15.4031023,141.43527 C14.85555,186.242335 15.3909795,213.220924 17.0093906,222.371037 C29.8678042,261.11769 24.1980073,299.985319 -2.84217094e-14,338.973926 C52.0952764,321.187042 78.6545925,283.166397 79.6779485,224.911991 C78.6677684,49.8591511 248.475354,104.678242 259.409823,141.43527 Z" id="path-5"></path>
+        <filter x="-2.1%" y="-1.6%" width="104.2%" height="104.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-3.3%" y="-2.8%" width="106.7%" height="106.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="4" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-8" font-family="CaesarDressing, Caesar Dressing" font-size="90" font-weight="normal" fill="#D0021B">
+            <tspan x="45.3614357" y="137.361436">A</tspan>
+        </text>
+        <filter x="-8.2%" y="-2.8%" width="116.3%" height="105.5%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="2" dy="-3" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-8.2%" y="-2.8%" width="116.3%" height="105.5%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="2" dy="-3" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-11" font-family="CaesarDressing, Caesar Dressing" font-size="90" font-weight="normal" fill="#D0021B">
+            <tspan x="115.976515" y="100.387288">r</tspan>
+        </text>
+        <filter x="-6.5%" y="-2.8%" width="115.2%" height="105.5%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-3" dy="-3" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-6.5%" y="-2.8%" width="115.2%" height="105.5%" filterUnits="objectBoundingBox" id="filter-13">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-3" dy="-3" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-14" font-family="CaesarDressing, Caesar Dressing" font-size="90" font-weight="normal" fill="#D0021B">
+            <tspan x="194.077566" y="100.337839">e</tspan>
+        </text>
+        <filter x="-14.3%" y="-2.8%" width="122.9%" height="105.5%" filterUnits="objectBoundingBox" id="filter-15">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-3" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-14.3%" y="-2.8%" width="122.9%" height="105.5%" filterUnits="objectBoundingBox" id="filter-16">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-3" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-17" font-family="CaesarDressing, Caesar Dressing" font-size="90" font-weight="normal" fill="#D0021B">
+            <tspan x="257.77075" y="128.37057">s</tspan>
+        </text>
+        <filter x="-12.5%" y="-2.8%" width="125.0%" height="105.5%" filterUnits="objectBoundingBox" id="filter-18">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-3" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-12.5%" y="-2.8%" width="125.0%" height="105.5%" filterUnits="objectBoundingBox" id="filter-19">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-3" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="11-Ares-Helmet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Path">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#A87832" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+        </g>
+        <g id="Path-8">
+            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+            <use fill="url(#radialGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-5"></use>
+        </g>
+        <g id="A" transform="translate(69.861436, 102.861436) rotate(-45.000000) translate(-69.861436, -102.861436) " fill="#D0021B" fill-opacity="1">
+            <use filter="url(#filter-9)" xlink:href="#text-8"></use>
+            <use filter="url(#filter-10)" xlink:href="#text-8"></use>
+        </g>
+        <g id="r" transform="translate(138.976515, 65.887288) rotate(-11.000000) translate(-138.976515, -65.887288) " fill="#D0021B" fill-opacity="1">
+            <use filter="url(#filter-12)" xlink:href="#text-11"></use>
+            <use filter="url(#filter-13)" xlink:href="#text-11"></use>
+        </g>
+        <g id="e" transform="translate(211.577566, 65.837839) rotate(5.000000) translate(-211.577566, -65.837839) " fill="#D0021B" fill-opacity="1">
+            <use filter="url(#filter-15)" xlink:href="#text-14"></use>
+            <use filter="url(#filter-16)" xlink:href="#text-14"></use>
+        </g>
+        <g id="s" transform="translate(273.770750, 93.870570) rotate(47.000000) translate(-273.770750, -93.870570) " fill="#D0021B" fill-opacity="1">
+            <use filter="url(#filter-18)" xlink:href="#text-17"></use>
+            <use filter="url(#filter-19)" xlink:href="#text-17"></use>
+        </g>
+    </g>
+</svg>

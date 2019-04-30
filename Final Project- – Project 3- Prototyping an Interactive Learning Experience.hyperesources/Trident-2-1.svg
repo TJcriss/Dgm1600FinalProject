@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="300px" viewBox="0 0 100 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>2 Pos Trident</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2-Pos-Trident" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Trident">
+            <g id="Right-Tine" transform="translate(50.000000, 18.000000)">
+                <path d="M4.97379915e-14,19 C5.19753322,31.1445619 6.6747576,47.6443123 4.43167314,68.4992512 C1.96488009,91.4341068 17.8753434,92.7747362 40.188247,93.8459953" id="Path-2-Copy" stroke="#FFC200" stroke-width="10" transform="translate(20.094123, 56.422998) scale(-1, 1) translate(-20.094123, -56.422998) "></path>
+                <polygon id="Triangle" fill="#FFC200" transform="translate(39.094424, 16.644288) rotate(-10.000000) translate(-39.094424, -16.644288) " points="46.7391976 1.09121478 43.2183996 32.1973612 39.0637642 18.9407231 31.4496514 17.6883609"></polygon>
+            </g>
+            <g id="Left-Tine" transform="translate(25.000000, 65.000000) scale(-1, 1) translate(-25.000000, -65.000000) translate(0.000000, 18.000000)">
+                <path d="M5.68434189e-14,19 C5.19753322,31.1445619 6.6747576,47.6443123 4.43167314,68.4992512 C1.96488009,91.4341068 17.8753434,92.7747362 40.188247,93.8459953" id="Path-2-Copy" stroke="#FFC200" stroke-width="10" transform="translate(20.094123, 56.422998) scale(-1, 1) translate(-20.094123, -56.422998) "></path>
+                <polygon id="Triangle" fill="#FFC200" transform="translate(38.618649, 16.728180) rotate(-10.000000) translate(-38.618649, -16.728180) " points="46.7465372 1.17510689 43.2257392 32.2812533 39.0711039 19.0246152 30.4907602 18.7571659"></polygon>
+                <path d="" id="Path-5" stroke="#979797"></path>
+            </g>
+            <g id="Middle-Tine" transform="translate(38.461538, 0.000000)" fill="#FFC200">
+                <rect id="Rectangle" x="6.73076923" y="9" width="10.5769231" height="291"></rect>
+                <polygon id="Triangle" points="12.0192308 0 24.0384615 19 12.0192308 13.6532811 0 19"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

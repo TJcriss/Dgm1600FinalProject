@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Zeus LIghting Bolt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-8.0%" y="-6.0%" width="114.0%" height="110.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <path d="M1.13686838e-13,47.0160423 C1.13686838e-13,35.6334977 1.13686838e-13,26.3822072 24.5896312,16.8477267 C25.0706211,16.6612257 55.1606465,12.4788366 55.8855253,12.3780159 C73.1976829,0.147974817 104.849718,-1.33378727 128.4,2.31667625 C135.258865,3.37984986 148.749537,14.4637465 154.8,14.4637465 C186.095894,4.92897791 200.491958,7.31267005 210.129575,14.4637465 C236.954627,12.3780159 259.308838,14.4637465 268.250522,21.6148229 C286.13389,16.8477267 303.003266,43.0680522 299.546416,50.049473 C286.80802,75.7758121 273.790432,87.4643183 243.929021,87.4643183 C239.704354,87.4643183 235.592854,87.2460383 231.647057,86.8331469 C221.728766,92.138457 206.874621,95.5092793 190.272891,95.5092793 C173.594004,95.5092793 158.678985,92.1070526 148.76076,86.7590529 C144.605834,87.2198805 140.261922,87.4643183 135.791282,87.4643183 C131.391177,87.4643183 127.113832,87.2275327 123.018605,86.780703 C113.372153,90.8107606 100.456024,93.2745679 86.262547,93.2745679 C56.6854714,93.2745679 32.6551906,82.5756559 32.2002462,69.2997994 C13.2330005,65.5164322 1.13686838e-13,56.9624342 1.13686838e-13,47.0160423 Z" id="path-3"></path>
+        <filter x="-4.0%" y="-6.3%" width="106.0%" height="119.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-5.5%" y="-11.1%" width="109.0%" height="128.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.580392157   0 0 0 0 0.580392157   0 0 0 0 0.580392157  0 0 0 0.817089161 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-6.7%" y="-14.7%" width="111.3%" height="135.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="5.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="5" dy="5" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.441870629 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Zeus-LIghting-Bolt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LIghting-Bolt" filter="url(#filter-1)" transform="translate(10.000000, 10.000000)">
+            <polygon id="Path-Copy" fill="#FFC200" filter="url(#filter-2)" points="126.711154 73.0519481 106 140.228114 134.665134 137.553084 108.983084 220.610979 137.677384 218.545321 113.220285 299.85583 171.591398 186.453889 146.98118 189.130083 171.591398 106.256941 143.06229 109.099646 154.779307 73.0519481"></polygon>
+            <g id="Path" filter="url(#filter-4)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-3"></use>
+                <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

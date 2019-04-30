@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="920px" viewBox="0 0 1024 920" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>MT Olympus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M842.222879,182.293392 C846.485945,187.312375 847.642205,192.362436 845.138975,197.201194 C839.317311,208.454507 814.906107,216.238476 781.013637,219.434106 C759.908946,233.016995 708.962489,239.779938 652.771225,235.401881 C622.093292,242.571081 579.317596,247.02 532,247.02 C478.356311,247.02 430.550157,241.30197 399.591148,232.3847 C336.304642,242.373727 277.751168,238.410261 256.37618,220.567141 C253.554885,218.212019 251.491943,215.707459 250.150351,213.084683 C197.082676,206.56398 161,193.746023 161,179 C161,167.184935 184.164407,156.607652 220.669766,149.515572 C245.023111,132.518604 300.739064,119.152998 367.518348,116.337224 C401.540393,114.902671 433.721087,116.405153 461.087241,120.168338 C483.768273,115.757875 509.926716,112.701505 538.046885,111.515807 C581.254944,109.693922 621.49308,112.609195 652.671037,118.876231 C663.011045,117.865875 673.74482,117.112417 684.780742,116.647083 C777.784453,112.725546 857.028227,130.751698 861.776665,156.909621 C863.394771,165.823353 856.153567,174.531119 842.222879,182.293392 Z" id="path-1"></path>
+        <filter x="-10.8%" y="-54.4%" width="121.7%" height="211.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="22" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-8.6%" y="-42.6%" width="117.1%" height="188.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="10" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="79.0009293%" cy="64.6228322%" fx="79.0009293%" fy="64.6228322%" r="88.8592915%" gradientTransform="translate(0.790009,0.646228),scale(0.862305,1.000000),rotate(93.132021),scale(1.000000,1.334594),translate(-0.790009,-0.646228)" id="radialGradient-4">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#9B9B9B" offset="100%"></stop>
+        </radialGradient>
+        <path d="M760.797034,182.293392 C764.647948,187.312375 765.692421,192.362436 763.431203,197.201194 C758.172376,208.454507 736.121239,216.238476 705.505483,219.434106 C686.441187,233.016995 640.420217,239.779938 589.661507,235.401881 C561.949507,242.571081 523.309352,247.02 480.566406,247.02 C432.108972,247.02 388.924702,241.30197 360.958801,232.3847 C303.790814,242.373727 250.898272,238.410261 231.589811,220.567141 C229.041278,218.212019 227.17778,215.707459 225.965893,213.084683 C178.028784,206.56398 145.43457,193.746023 145.43457,179 C145.43457,167.184935 166.359449,156.607652 199.335482,149.515572 C221.334354,132.518604 271.663706,119.152998 331.986789,116.337224 C362.719593,114.902671 391.789068,116.405153 416.509471,120.168338 C436.997708,115.757875 460.627161,112.701505 486.02868,111.515807 C525.059398,109.693922 561.407323,112.609195 589.571005,118.876231 C598.911345,117.865875 608.607381,117.112417 618.576354,116.647083 C702.588495,112.725546 774.171006,130.751698 778.460366,156.909621 C779.922035,165.823353 773.380908,174.531119 760.797034,182.293392 Z" id="path-5"></path>
+        <filter x="-12.0%" y="-54.4%" width="124.0%" height="211.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="22" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-9.5%" y="-42.6%" width="119.0%" height="188.2%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="10" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="MT-Olympus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cloud" transform="translate(512.000000, 128.000000) scale(-1, -1) translate(-512.000000, -128.000000) translate(0.000000, -51.000000)" fill="black" fill-opacity="1" opacity="0.900065104">
+            <g id="MT-Cloud">
+                <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use filter="url(#filter-3)" xlink:href="#path-1"></use>
+            </g>
+        </g>
+        <g id="Mountain" transform="translate(0.000000, 152.000000)">
+            <g transform="translate(0.000000, -115.000000)">
+                <polygon id="Main-MT" stroke="#4A4A4A" fill="url(#radialGradient-4)" stroke-linejoin="round" points="0 883 27 792 106 695 159 632.816406 195 544.914063 251 507 242.5 490.06901 236 400 284 370 284 287 319 216 356 208 385 155 390 119 407 87 440 68 457 23 506 0 547 16 576 28 602 78 633 149 633 275 659 281 695 423.203125 724 435.97526 781.5 589.992188 836 589.992188 878 649 900.72985 743.75409 909 746 969 751.522135 1024 831 1024 883"></polygon>
+                <g id="Big-Rock" transform="translate(0.000000, 720.000000)">
+                    <polygon id="Path-3" stroke="#4A4A4A" fill="#9B9B9B" points="0 163 0 89.6023392 22 66.7251462 43 11.4385965 111.689655 -1.36424205e-12 141.655172 36.4148936 184.771025 47.9715946 230.036137 120.927354 237 163"></polygon>
+                    <polygon id="Path-2" stroke="#979797" fill="#D8D8D8" points="140.872812 37 100 58.0612245 134.514819 80 164.926021 73.8571429 184 55.4285714 184 48.697054"></polygon>
+                    <polygon id="Path-4" stroke="#979797" fill="#D8D8D8" stroke-linejoin="round" points="44 13.3809524 35 41 111 1"></polygon>
+                </g>
+                <polygon id="Path-5" stroke="#979797" fill="#FFFFFF" stroke-linejoin="round" points="237 883 745 883 613 806 589 790 589 757 508 698 526 670 641 628 722 608 776 600 836 589.992188 781.5 589.992188 308 546 242.5 530.639323 251 507 195 544.914063 266 564 580 587 718 600 631 620 457 670 415 695 330 756.78125 330 790 306 806"></polygon>
+                <polygon id="Path-8" stroke="#979797" fill="#FFFFFF" stroke-linecap="square" stroke-linejoin="round" points="724 436 626 458 486 461 369 446 332 423.5 262 409 236 400 284 370 286 386 356 395 384 409 462 415.5 506 439 622 432 677 428 695 423.5 695 421 707 421 724 435.97526"></polygon>
+                <polygon id="Path-10" stroke="#4A4A4A" fill="#FFFFFF" stroke-linejoin="round" points="659 281 624 291 541 283 319 216 365 191 356 208 529 269 618 281 633 275"></polygon>
+                <polygon id="Path-9" stroke="#979797" fill="#FFFFFF" stroke-linejoin="round" points="909 746 901 744 939 742 959 743.261068 969 751.522135"></polygon>
+                <polygon id="Path-11" stroke="#979797" fill="#9B9B9B" points="356 394.666667 375 314.809524 385.555556 409"></polygon>
+                <polygon id="Path-6" stroke="#4A4A4A" fill="#FFFFFF" stroke-linejoin="round" points="506 0 457 23 517 28 547 16"></polygon>
+                <polygon id="Path-7" stroke="#4A4A4A" fill="#FFFFFF" stroke-linejoin="round" points="531 87 407 87 440 68"></polygon>
+            </g>
+        </g>
+        <g id="Cloud" transform="translate(99.000000, 0.000000)" fill="black" fill-opacity="1" opacity="0.900065104">
+            <g id="MT-Cloud">
+                <use filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use filter="url(#filter-7)" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>

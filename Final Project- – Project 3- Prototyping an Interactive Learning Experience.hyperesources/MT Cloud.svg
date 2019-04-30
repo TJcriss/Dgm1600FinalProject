@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="739px" height="230px" viewBox="0 0 739 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M681.222879,99.59971 C685.485945,106.609462 686.642205,113.66262 684.138975,120.420662 C678.317311,136.137579 653.906107,147.009045 620.013637,151.472215 C598.908954,170.442724 547.962528,179.888174 491.771289,173.773584 C461.093292,183.786426 418.317596,190 371,190 C317.356311,190 269.550157,182.013925 238.591148,169.559637 C175.304642,183.510792 116.751168,177.975224 95.3761795,153.054666 C92.554885,149.76539 90.4919429,146.267401 89.1503506,142.604306 C36.0826759,133.497178 0,115.595004 0,95 C0,78.4985122 23.1644065,63.7257711 59.6697657,53.8206318 C84.0231113,30.0818486 139.739064,11.4148013 206.518348,7.48215579 C240.540393,5.47859067 272.721087,7.57702944 300.087241,12.8328738 C322.768273,6.67301003 348.926716,2.40433597 377.046885,0.74833357 C420.254944,-1.7961978 460.49308,2.27541198 491.671037,11.0282554 C502.011045,9.61714347 512.74482,8.56482809 523.780742,7.9149204 C616.784453,2.43791306 696.028227,27.6141036 700.776665,64.147516 C702.394771,76.5968612 695.153567,88.7585458 681.222879,99.59971 Z" id="path-1"></path>
+        <filter x="-4.3%" y="-15.8%" width="108.6%" height="131.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-4.3%" y="-15.8%" width="108.6%" height="131.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="10" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1" opacity="0.900065104">
+        <g id="Cloud" transform="translate(19.000000, 20.000000)" fill="black">
+            <g id="Combined-Shape">
+                <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use filter="url(#filter-3)" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
