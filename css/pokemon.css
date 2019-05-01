@@ -2,12 +2,12 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-
+    
 }
 
-.box {
+.card {
     margin: 8px;
     width: 120px;
-    height: 120px;
+    height: 150px;
     text-align: center;
 }

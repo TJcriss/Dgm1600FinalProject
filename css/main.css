@@ -22,7 +22,7 @@ nav ul {
     justify-content: flex-end;
     position: fixed;
     width: 100%;
-    background-color: lightcyan;
+    background-color: black;
 }
 
 nav ul li {
@@ -67,16 +67,21 @@ nav ul li a:hover {
     background-color: #89CDDA;
 }
 
+.work-header {
+  font-size: 32px;
+}
+
 .project-pics {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     min-height: 15vh;
+    padding: 10px 0px 50px 0px;
 }
 
 .poject {
     text-decoration: none;
-}
+} 
 
 figure {
     max-width: 230px;
@@ -130,40 +135,42 @@ figure {
     background: #E4F1FE;
     color: green;
   }
- 
-    @media only screen and (max-width: 500px) {
-    nav ul {
-      text-align: center;
-    }
-    nav ul li {
-      margin: 20px;
-    }
-    .project {
-      margin: 40px 0;
-    }
-  }  
-  @media only screen and (max-width: 367px) {
-    #contact{
-      min-height:1100px;
-    }
-    .contact-details {
-      border: 2px solid #90C695;
-      border-radius: 0;
-      width: 90px;
-      height: 20px;
-      padding: 10px;
-      line-height: normal;
-    }
 
-footer {
+  footer {
     background-color: #026575;
     text-align: center;
-}
-footer p {
-    color: #026575;
-    text-align: center;
-}
+  }
+  footer p {
+      color: black;
+      text-align: center;
+  }
 
-#title, #subtitle {
-  text-align: center;
-}}
+
+
+@media only screen and (max-width: 500px) {
+  nav ul {
+    text-align: center;
+  }
+  nav ul li {
+    margin: 20px;
+  }
+  .project {
+    margin: 40px 0;
+  }
+}  
+@media only screen and (max-width: 367px) {
+  #contact{
+    min-height:1100px;
+  }
+  .contact-details {
+    border: 2px solid #90C695;
+    border-radius: 0;
+    width: 90px;
+    height: 20px;
+    padding: 10px;
+    line-height: normal;
+  }
+  #title, #subtitle {
+    text-align: center;
+  }
+}
