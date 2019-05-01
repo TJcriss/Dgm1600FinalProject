@@ -86,8 +86,13 @@ figure {
     max-width: 230px;
 }
 
+.project-pics:hover {
+  color: black;
+}
+
 .figure-pic {
     max-height: 200px;
+    
 
   }
 
@@ -101,6 +106,10 @@ figure {
     text-align: center;
     font-family: 'Righteous', cursive;
     color: white;
+  }
+
+  .project-title:hover{
+    color: black;
   }
 
   footer {
