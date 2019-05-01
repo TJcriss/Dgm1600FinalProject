@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560px" height="1600px" viewBox="0 0 2560 1600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PokeAreana" transform="translate(140.000000, 300.000000)" stroke="#FFFFFF" stroke-width="10">
+            <rect id="Rectangle" x="2135" y="338" width="140" height="323.333333"></rect>
+            <rect id="Rectangle" x="5" y="338" width="140" height="323.333333"></rect>
+            <path d="M1139,599.995104 C1084.2321,599.458555 1040,554.894757 1040,500 C1040,445.105243 1084.2321,400.541445 1139,400.004896 L1139,5 L1140,5 L1140,400 C1195.22847,400 1240,444.771525 1240,500 C1240,555.228475 1195.22847,600 1140,600 L1140,995 L1139,995 L1139,599.995451 Z" id="Combined-Shape"></path>
+            <rect id="Rectangle" x="145" y="5" width="1990" height="990"></rect>
+            <circle id="Oval" cx="1140" cy="500" r="200"></circle>
+        </g>
+    </g>
+</svg>

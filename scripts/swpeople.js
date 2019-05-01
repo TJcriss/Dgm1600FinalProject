@@ -3,13 +3,15 @@ import { people } from '../data/api.js'
 const mainContainer = document.createElement('div')
 mainContainer.className = 'container'
 
-// Sets the number of stars we wish to display
-const numStars = 100;
+
 // Add Blank Card Button
 let cardButtonElement = document.createElement('button');
 cardButtonElement.onclick = createCard;
 cardButtonElement.textContent = 'Add Card';
 var counter = 89;
+
+// Sets the number of stars we wish to display
+const numStars = 100;
 
 // For every star we want to display
 for (let i = 0; i < numStars; i++) {

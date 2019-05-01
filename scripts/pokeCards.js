@@ -38,7 +38,7 @@ function cardFront(pokedata) {
     image.src = `pokemon/images/${pokedata.imageID}${upperName}.png`;
   } else {
     // setup image src for blank card.
-    image.src = `vectorcon.svg`;
+    image.src = `http://pngimg.com/uploads/pokeball/pokeball_PNG19.png`;
   };
   // Appending(inserting) name into figure element.
   figure.appendChild(name);
@@ -138,4 +138,11 @@ newPokemonButton.addEventListener('click', function() {
   let newPokeName = prompt('enter new pokemon name');
   // Create card through pokemon class.
   createPokeCard(new Pokemon(newPokeName));
+
+  console.log({people});
+  displayPeople(person);
+  var jumpToCard = document.getElementById(newPokeName.id);
+  jumpToCard.scrollIntoView();
+  counter ++;
+
 })
